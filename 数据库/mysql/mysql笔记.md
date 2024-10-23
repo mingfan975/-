@@ -482,5 +482,3 @@ MySQL 基于 GTID 的复制是一种高级的复制方式，相比传统的基�
 5. 监控和管理：
    - 使用 `SHOW MASTER STATUS` 和 `SHOW SLAVE STATUS` 查看 GTID 信息
    - `RESET MASTER` 和 `RESET SLAVE` 命令会影响 GTID 执行状态
-
-您是否想了解更多关于 GTID 复制的具体细节，比如故障恢复过程或常见问题排查？
